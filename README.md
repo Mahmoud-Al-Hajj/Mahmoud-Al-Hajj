@@ -3,7 +3,7 @@ I'm a highly motivated Computer Science student at Haigazian University and a de
 A fully developed 2D platformer game built in Unity, showcasing my skills in game mechanics, level design.<br><br>
 
 
-## 🌐 Socia
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-al-hajj/) 
 
 # 💻 Tech Stack:
