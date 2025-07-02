@@ -1,9 +1,9 @@
 # 💫 About Me:
 I'm a highly motivated Computer Science student at Haigazian University and a dedicated software developer with a strong focus on delivering practical, scalable, and maintainable solutions. My journey bridges rigorous academic training with hands-on experience across multiple real-world development projects, where I've contributed to building full-stack applications, enterprise dashboards, and database-driven systems.<br>My focus is on full-stack web development using modern stacks like HTML/CSS/JavaScript, PHP (MVC), MySQL, and Node.js with Express.js, as well as low-code solutions like Oracle APEX for enterprise applications. I've designed and implemented multiple projects, including:<br><br>🎓 Employee Training Management System (Oracle APEX): For tracking, scheduling, and analyzing internal/external training with full compliance dashboards.<br><br>🎬 Smart Cinema Booking Platform (Raw PHP MVC): With user authentication, interactive seat selection, and admin tools.<br><br>🏥 Hospital Database System (MySQL/PHP): Featuring GUI interfaces, triggers, constraints.<br><br>💳 Digital Wallet Platform: Including deposits, withdrawals, and transaction history.<br><br>🎮 2D Platformer Game (Unity/C#): 
-A fully developed 2D platformer game built in Unity, showcasing my skills in game mechanics, level design, and C# scripting. This project reflects a strong understanding of Unity's game engine and a clean, modular approach to game development.<br><br>
+A fully developed 2D platformer game built in Unity, showcasing my skills in game mechanics, level design.<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Socia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-al-hajj/) 
 
 # 💻 Tech Stack:
