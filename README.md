@@ -13,7 +13,7 @@ A fully developed 2D platformer game built in Unity, showcasing my skills in gam
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahmoud-Al-Hajj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Al-Hajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
