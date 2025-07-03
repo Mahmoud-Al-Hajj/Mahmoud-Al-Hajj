@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Talk+is+cheap;+show+me+the+code.)](https://git.io/typing-svg)
 # 💫 About Me:
 I'm a highly motivated Computer Science student and a dedicated software developer with a strong focus on delivering practical, scalable, and maintainable solutions. My journey bridges rigorous academic training with hands-on experience across multiple real-world development projects, where I've contributed to building full-stack applications, enterprise dashboards, and database-driven systems.<br>My focus is on full-stack web development using modern stacks like HTML/CSS/JavaScript, PHP, MySQL, as well as low-code solutions like Oracle APEX for enterprise applications. I've designed and implemented multiple projects, including:<br><br>🎓 Employee Training Management System (Oracle APEX): For tracking, scheduling, and analyzing internal/external training with full compliance dashboards.<br><br>🏥 Hospital Database System (MySQL/PHP): Featuring GUI interfaces, triggers, constraints.<br><br>🎮 2D Platformer Game (Unity/C#): 
 A fully developed 2D platformer game built in Unity, showcasing my skills in game mechanics, level design.<br><br>
@@ -18,5 +19,3 @@ A fully developed 2D platformer game built in Unity, showcasing my skills in gam
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mahmoud-Al-Hajj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
