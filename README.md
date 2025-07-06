@@ -1,3 +1,6 @@
+
+![tenor](https://github.com/user-attachments/assets/163ddb6f-1ef9-4b99-b34e-f7c1056874fc)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Talk+is+cheap;+show+me+the+code.)](https://git.io/typing-svg)
 # 💫 About Me:
 I'm a Computer Science student and a dedicated software developer with a strong focus on delivering practical, scalable, and maintainable solutions. My journey bridges rigorous academic training with hands-on experience across multiple real-world development projects, where I've contributed to building full-stack applications, enterprise dashboards, and database-driven systems.<br>My focus is on full-stack web development using modern stacks like HTML/CSS/JavaScript, PHP, MySQL, as well as low-code solutions like Oracle APEX for enterprise applications. I've designed and implemented multiple projects, including:<br><br>🎓 Employee Training Management System (Oracle APEX): For tracking, scheduling, and analyzing internal/external training with full compliance dashboards.<br><br>🏥 Hospital Database System (MySQL/PHP): Featuring GUI interface, an application only used by admins to manage patients, rooms, consults, managing records and medical history, maintaining the information about the employees in the hospitals and the patients.<br><br>🎮 2D Platformer Game (Unity/C#): 
