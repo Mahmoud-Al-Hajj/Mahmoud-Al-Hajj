@@ -31,6 +31,3 @@ I'm a Computer Science student and a dedicated software developer with a strong 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mahmoud-Al-Hajj&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://profile-counter.glitch.me/{Mahmoud-Al-Hajj}/count.svg)
