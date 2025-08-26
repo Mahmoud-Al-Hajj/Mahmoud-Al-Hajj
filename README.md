@@ -10,9 +10,10 @@ My focus is on full stack software engineering, building robust web applications
 "Measure twice, code once - building software to last, not just to ship."
 
 
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-al-hajj/)
+## 🌐 Socials  
+<a href="https://www.linkedin.com/in/mahmoud-al-hajj/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 # 💻 Tech Stack:
 <p align="left"> 
