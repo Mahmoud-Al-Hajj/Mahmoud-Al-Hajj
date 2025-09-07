@@ -74,6 +74,7 @@ My focus is on full stack software engineering, building robust web applications
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahmoud-Al-Hajj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Al-Hajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
