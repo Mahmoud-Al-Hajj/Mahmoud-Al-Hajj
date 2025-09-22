@@ -1,5 +1,4 @@
-![tenor](https://github.com/user-attachments/assets/163ddb6f-1ef9-4b99-b34e-f7c1056874fc)
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Talk+is+cheap;+show+me+the+code.)](https://git.io/typing-svg)
 # 💫 About Me:
 I'm a Computer Science student and a dedicated software engineer  with a strong focus on delivering practical, scalable, and maintainable solutions. My journey bridges rigorous academic training with hands on experience across multiple real world development projects, where I've contributed to building full-stack applications, enterprise dashboards, and database driven systems.
