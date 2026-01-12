@@ -4,7 +4,7 @@
 # 💫 About Me:
 I'm a Senior Computer Science student and a dedicated software engineer  with a strong focus on delivering practical, scalable, and maintainable solutions. My journey bridges rigorous academic training with hands on experience across multiple real world development projects, where I've contributed to building full-stack applications, enterprise dashboards, and database driven systems.    
 
-My focus is on full stack software engineering, building robust web applications with Laravel for the backend and React.js for dynamic frontends, as well as low-code solutions like Oracle APEX for enterprise applications.
+My focus is on full stack software engineering, building robust web applications with Laravel for the backend and React.js for dynamic frontends, as well as low-code solutions like Oracle APEX for enterprise applications. In addition to Mobile Applications using React Native (Expo)
 
 "Measure twice, code once - building software to last, not just to ship."
 
