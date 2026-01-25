@@ -77,5 +77,3 @@ My focus is on full stack software engineering, building robust web applications
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
