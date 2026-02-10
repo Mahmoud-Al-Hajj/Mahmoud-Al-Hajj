@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Talk+is+cheap;+show+me+the+code.)](https://git.io/typing-svg)
 # 💫 About Me:
-I'm a Software Engineer with a strong focus on delivering practical, scalable, and maintainable solutions. My journey bridges rigorous academic training with hands on experience across multiple real world development projects, where I've contributed to building full-stack applications, enterprise dashboards, and database driven systems.    
+Junior Software Engineer and SE Factory graduate focused on backend and mobile development. I build production-ready mobile and web applications using React Native, Node.js, Laravel, and PostgreSQL, with strong experience in REST API design, JWT authentication, and Dockerized deployments on AWS.
 
-My focus is on full stack software engineering, building robust web applications with Laravel for the backend and React.js for dynamic frontends, as well as low-code solutions like Oracle APEX for enterprise applications. In addition to Mobile Applications using React Native (Expo)
+Notable projects include a workout tracking mobile app and an AI-powered workflow automation platform that converts natural language into executable n8n workflows. I enjoy building scalable systems, integrating third-party services, and writing clean, maintainable code.
+
+Tech: React Native, React, Node.js, Laravel, PostgreSQL, MySQL, Prisma, Docker, AWS, n8n
 
 "Measure twice, code once - building software to last, not just to ship."
 
