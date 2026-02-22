@@ -72,7 +72,7 @@ Tech: React Native, React, Node.js, Laravel, PostgreSQL, MySQL, Prisma, Docker, 
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Al-Hajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Al-Hajj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahmoud-Al-Hajj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Al-Hajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
