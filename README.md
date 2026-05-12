@@ -20,10 +20,11 @@ Tech: React Native, React, Node.js, Laravel, PostgreSQL, MySQL, Prisma, Docker, 
 [![My Skills](https://skillicons.dev/icons?i=laravel,react,js,nodejs,express,aws,java,cs,git,mysql,postgresql,docker,php,python,html,css,unity)](https://skillicons.dev)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Al-Hajj&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mahmoud-Al-Hajj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Al-Hajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Al-Hajj&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
