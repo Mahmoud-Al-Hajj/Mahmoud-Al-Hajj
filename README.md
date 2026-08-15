@@ -17,7 +17,7 @@ Tech: React Native, React, Node.js, Laravel, PostgreSQL, MySQL, Prisma, Docker, 
 </a>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,js,nodejs,express,aws,java,cs,git,mysql,postgresql,postman,docker,php,python,html,css,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,js,nodejs,express,aws,java,cs,git,mysql,postgresql,postman,docker,php,python,html,css,unity,nextjs,mobx)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats
